@@ -1,0 +1,6 @@
+.demo {
+    background: #AECE1D;
+    background: -moz-linear-gradient(left, #AECE1D 0%, #1C6EA4 60%, #C50000 100%);
+    background: -webkit-linear-gradient(left, #AECE1D 0%, #1C6EA4 60%, #C50000 100%);
+    background: linear-gradient(to right, #AECE1D 0%, #1C6EA4 60%, #C50000 100%);
+    }

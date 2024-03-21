@@ -1,0 +1,10 @@
+html
+  head
+    title #{songs.title}
+    link(rel='stylesheet', href='public/styles/styles.css')
+  body
+        h1= songs.title
+        p Author: #{songs.author}
+        p Lyrics: #{songs.lyrics}
+        img(src=songs.thumbnail, alt='Thumbnail')
+        a(href='/') Back to Album Songs

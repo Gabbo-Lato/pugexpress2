@@ -1,0 +1,25 @@
+{
+    "songs": [
+      {
+        "song_id": "runaway",
+        "title": "Runaway",
+        "author": "Kanye West",
+        "lyrics": "Lorem ipsum",
+        "thumbnail": "image1.jpg"
+      },
+      {
+        "song_id": "dna",
+        "title": "DNA",
+        "author": "Kendrick Lamar",
+        "lyrics": "Lorem ipsum",
+        "thumbnail": "image2.jpg"
+      },
+      {
+        "song_id": "suite_hotel",
+        "title": "Suite Hotel",
+        "author": "Simba la rue",
+        "lyrics": "Lorem ipsum",
+        "thumbnail": "image3.jpg"
+      }
+    ]
+  }
